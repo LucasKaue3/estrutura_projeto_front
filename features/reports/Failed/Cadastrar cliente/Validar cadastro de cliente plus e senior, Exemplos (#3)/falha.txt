@@ -1,0 +1,4 @@
+✖ falha no passo 5 - inserir um cpf de um cliente não cadastrado
+
+
+ Mensagem do erro: 

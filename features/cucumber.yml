@@ -1,0 +1,6 @@
+## YAML Templatesss
+---
+default:  --format progress --format html --out=features_report.html
+
+hmg:      ENVIRONMENT_TYPE=hmg
+pre:      ENVIRONMENT_TYPE=pre

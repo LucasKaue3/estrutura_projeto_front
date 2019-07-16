@@ -1,0 +1,15 @@
+source "http://rubygems.org"
+
+gem 'cucumber'
+gem 'rspec'
+gem 'capybara'
+gem 'selenium-webdriver'
+gem 'rest-client'
+gem 'syntax'
+gem 'site_prism'
+gem 'pry'
+gem 'rubocop'
+gem 'fileutils'
+gem 'cpf_faker'
+gem 'faker'
+gem 'timeout'

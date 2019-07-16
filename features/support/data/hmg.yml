@@ -1,0 +1,75 @@
+senha:
+  # ---------------- RAIA ----------------
+  ITU: branco5
+  ACLIMACAO 123: parque148
+
+  # ---------------- DROGASIL ----------------
+  ALPHAVILLE - B: alphafm
+  # ---------------- DROGASIL ----------------
+
+atendentes:
+  padrao: 0
+
+filial:
+  CORIFEU: 58 - CORIFEU
+
+cpf:
+  válido: 32222984831
+  inválido: 11111111111
+  senior:
+
+produto:
+  padrao: 8888
+  ean: 7896658005367
+  codProd: 71078
+  descProd: Losartana
+  princAtivo: NISTATINA
+
+Univers:
+  idUniversVerde: 860028610113
+  idUniversLaranja: 860099900890
+  idUniversInvalido: 999909090909
+  idCliente: 03330003607967113
+  idClienteInvalido: 09000909990999099
+  nomeClienteIdUniversVerde: ALEXSANDRA ALVES FONSECA
+  nomeClienteNrPlanoSaude: DIEGO R RAMOS UP
+
+Mensagens:
+  campoIdObrigatorio: Os campos ID Univers ou Empresa e ID Cliente devem estar preenchidos!
+  camposIdUniversInvalidos: Cliente não encontrado!
+  mensagemConfirmacaoCadastro: Gostaria de realizar o Cadastro ?
+  menssagemConclusaoCadastro: Cadastro concluido com sucesso!
+  alteracaoCadastroComSucesso: Cadastro alterado com sucesso!
+  alteracaoCadastroInvalido: Campos não informados ou inválidos
+
+
+Cliente:
+  nome: FABIO GOMES'S DOMINGUES PA
+  dataNascimento: 19/04/1986
+  sexo: Masculino
+  email: fdomingues.mazzatech@rd.com.br
+  email_invalido: " "
+  logradouro: RUA MANTIQUEIRA TST1
+  numero: 168
+  complemento: CS 2
+  bairro: CENTRO
+  cidade: DIADEMA
+  uf: SP
+  cpfValido: 33433022879
+  cpfInvalido: 99900999099
+  cpfPlus: 49273073441
+  cpfSenior: 41673338569
+  rgValido: 888888888
+  validarCpf: 334.330.228-79
+  numeroCartao: 15340941
+  RgInvalido: 909009990
+  validarNumeroCartao: 15340941-0
+  dataNascimento_plus: 01/10/2002
+  dataNascimento_senior: 01/10/1955
+
+Cadastro_Invalido:
+  dataNascimento_invalido: 99/10/1993
+  sexo_invalido: --
+  tipoTel_invalido: --
+  ddd_invalido: " "
+  tel_invalido : " "

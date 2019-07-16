@@ -1,0 +1,4 @@
+✖ falha no passo 1 - que acesse o terminal de consulta
+
+
+ Mensagem do erro: 

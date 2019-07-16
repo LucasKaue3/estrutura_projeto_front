@@ -1,0 +1,4 @@
+✖ falha no passo 7 - abrir a janela seu preço
+
+
+ Mensagem do erro: 
